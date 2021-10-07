@@ -12,4 +12,8 @@ public class HelloWorld {
         // Rais Ahmad
         return name;
     }
+    public String getNametalha() {
+        // talha
+        return name;
+    }
 }

@@ -10,7 +10,7 @@ public class GitprogamcheckApplication {
 		SpringApplication.run(GitprogamcheckApplication.class, args);
 
 		System.out.println("deleted all commits ");
-		System.out.println("please keep code clean");
+		System.out.println("please don't keep code clean");
 
 	}
 }

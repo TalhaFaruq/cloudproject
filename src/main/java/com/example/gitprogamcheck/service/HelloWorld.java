@@ -9,7 +9,7 @@ public class HelloWorld {
     }
 
     public String getName() {
-        // Rais
+        // Rais Ahmad
         return name;
     }
     public String getNametalha() {

@@ -1,2 +1,4 @@
-package com.example.gitprogamcheck.service;public class HelloWorld {
+package com.example.gitprogamcheck.service;
+
+public class HelloWorld {
 }

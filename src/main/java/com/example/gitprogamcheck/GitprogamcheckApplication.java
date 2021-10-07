@@ -13,6 +13,8 @@ public class GitprogamcheckApplication {
 		System.out.println("Kamran' commit");
 		// new changes from fawad
 		System.out.println("hello team by fawad");
+		//new changes from talha
+		System.out.println("Talha Commit");
 
 	}
 }

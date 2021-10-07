@@ -11,5 +11,7 @@ public class GitprogamcheckApplication {
 		System.out.println("Hello world...");
 		System.out.println("Kamran' commit");
 		System.out.println("Kamran' 2nd commit");
+		// new changes from fawad
+		System.out.println("hello team by fawad");
 	}
 }

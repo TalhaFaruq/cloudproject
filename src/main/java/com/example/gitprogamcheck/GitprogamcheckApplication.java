@@ -16,5 +16,8 @@ public class GitprogamcheckApplication {
 		//new changes from talha
 		System.out.println("Talha Commit");
 
+		GitprogamcheckApplication newteamobj = new GitprogamcheckApplication();
+
+		System.out.println(newteamobj);
 	}
 }

@@ -13,15 +13,15 @@ public class GitprogamcheckApplication {
 		System.out.println("Kamran' commit");
 		// new changes from fawad
 		System.out.println("hello team by fawad");
-<<<<<<< HEAD
 		//new changes from talha
 		System.out.println("Talha Commit");
 
-=======
->>>>>>> ce3c77b6e72f215e3d00dd9b61871183cf07f2cc
 		GitprogamcheckApplication newteamobj = new GitprogamcheckApplication();
 
 		System.out.println(newteamobj);
 		System.out.println("Kamran' 2nd commit");
+
+		System.out.println("Kamran' 3rd commit on 12:07");
+
 	}
 }

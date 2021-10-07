@@ -14,5 +14,8 @@ public class GitprogamcheckApplication {
 		// new changes from fawad
 		System.out.println("hello team by fawad");
 
+		GitprogamcheckApplication newteamobj = new GitprogamcheckApplication();
+
+		System.out.println(newteamobj);
 	}
 }
